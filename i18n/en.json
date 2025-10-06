@@ -1,0 +1,46 @@
+{
+  "nameHeader": "Diroil James",
+  "name": "Keumouo Tadaha Diroil James",
+  "title": "Computer Engineer",
+  "education": "Graduated from National Advanced School of Engineering",
+  "about": "About Me",
+  "description": "Fullstack developer specializing in software engineering and data science. Master frameworks like React.js, Next.js, Node.js, Spring Boot. Capable of integrating AI models in various software environments. Proficient in .NET C#, C/C++, JavaScript/TypeScript, Tailwind CSS, HTML, MySQL, ScyllaDB, and MariaDB. Experienced in webmapping and imagery projects.",
+  "skills": "Skills",
+  "skillsList": [
+    "React.js & Next.js - Modern frontend development",
+    "Node.js & Spring Boot - Robust backend architecture",
+    ".NET C# - Enterprise applications",
+    "C/C++ - System programming and optimization",
+    "JavaScript/TypeScript - Full-stack development",
+    "Tailwind CSS - Modern and responsive design",
+    "MySQL, ScyllaDB, MariaDB - Database management",
+    "Artificial Intelligence - ML/AI model integration",
+    "Web Mapping - GIS solutions and image processing",
+    "Data Science - Data analysis and visualization"
+  ],
+  "projects": "Projects",
+  "project1": {
+    "title": "Web Mapping & Image Processing",
+    "description": "Development of a complete web mapping solution with advanced image processing using C++ for performance optimization and JavaScript for interactive interface."
+  },
+  "project2": {
+    "title": "Full Stack E-commerce Platform",
+    "description": "Complete web application with React/Next.js frontend and Spring Boot backend, integrating AI features for personalized recommendations."
+  },
+  "project3": {
+    "title": "AI Integration System",
+    "description": "Development of an infrastructure to integrate artificial intelligence models into different software environments with high-performance APIs."
+  },
+  "home": "Home",
+  "cv": "CV",
+  "contact": "Contact Information",
+  "summary": "Professional Summary",
+  "experience": "Work Experience",
+  "printCV": "Print CV",
+  "downloadCV": "Download CV",
+  "location": "Yaoundé, Cameroon",
+  "email": "Email",
+  "phone": "Phone",
+  "linkedin": "https://www.linkedin.com/in/james-keumouo-332b992b5/",
+  "github": "https://github.com/DIROIL"
+}

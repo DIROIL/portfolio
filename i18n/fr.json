@@ -1,0 +1,46 @@
+{
+"nameHeader": "Diroil James",
+  "name": "Keumouo Tadaha Diroil James",
+  "title": "Ingénieur en Informatique",
+  "education": "Diplômé de l'École Nationale Supérieure d'Ingénierie",
+  "about": "À Propos de Moi",
+  "description": "Développeur fullstack spécialisé en ingénierie logicielle et science des données. Maîtrise des frameworks comme React.js, Next.js, Node.js, Spring Boot. Capable d'intégrer des modèles d'IA dans divers environnements logiciels. Proficient en .NET C#, C/C++, JavaScript/TypeScript, Tailwind CSS, HTML, MySQL, ScyllaDB et MariaDB. Expérience en projets de cartographie web et imagerie.",
+  "skills": "Compétences",
+"skillsList": [
+    "React.js & Next.js - Développement frontend moderne",
+    "Node.js & Spring Boot - Architecture backend robuste",
+    ".NET C# - Applications d'entreprise",
+    "C/C++ - Programmation système et optimisation",
+    "JavaScript/TypeScript - Développement full-stack",
+    "Tailwind CSS - Design moderne et responsive",
+    "MySQL, ScyllaDB, MariaDB - Gestion de bases de données",
+    "Intelligence Artificielle - Intégration de modèles ML/AI",
+    "Cartographie Web - Solutions GIS et traitement d'images",
+    "Data Science - Analyse et visualisation de données"
+  ],
+  "projects": "Projets",
+  "project1": {
+    "title": "Cartographie Web & Traitement d'Images",
+    "description": "Développement d'une solution complète de cartographie web avec traitement d'images avancé utilisant C++ pour l'optimisation des performances et JavaScript pour l'interface interactive."
+  },
+  "project2": {
+    "title": "Plateforme E-commerce Full Stack",
+    "description": "Application web complète avec React/Next.js en frontend et Spring Boot en backend, intégrant des fonctionnalités d'IA pour les recommandations personnalisées."
+  },
+  "project3": {
+    "title": "Système d'Intégration IA",
+    "description": "Développement d'une infrastructure pour intégrer des modèles d'intelligence artificielle dans différents environnements logiciels avec des APIs performantes."
+  },
+  "home": "Accueil",
+  "cv": "CV",
+  "contact": "Informations de Contact",
+  "summary": "Résumé Professionnel",
+  "experience": "Expérience Professionnelle",
+  "printCV": "Imprimer le CV",
+  "downloadCV": "Télécharger le CV",
+  "location": "Yaoundé, Cameroun",
+  "email": "Email",
+  "phone": "Téléphone",
+  "linkedin": "https://www.linkedin.com/in/james-keumouo-332b992b5/",
+  "github": "https://github.com/DIROIL"
+}  
